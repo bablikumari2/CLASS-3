@@ -37,7 +37,7 @@
   }
 }
 
-.blankD{
+.count{
   text-align: center;
   margin: auto;
   margin-top: 50px;
@@ -48,6 +48,9 @@
   border: 1px solid red;
   margin-bottom: 50px;
 }
-.blankD>button{
+.count>button{
   margin: 10px;
+  background-color: rgb(13, 17, 17);
+  color: antiquewhite;
+  padding: 2%;
 }

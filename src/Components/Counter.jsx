@@ -7,7 +7,7 @@ function Counter() {
   const [count, setCount] = useState(0)
   return (
     <>
-      <div className="blankD">
+      <div className="count">
         <h1>Counter:{count}</h1>
         <button onClick={() => {
           setCount(count + 1)
